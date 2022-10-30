@@ -1,0 +1,16 @@
+.mySwiper{
+    height: 400px;
+    background-color: rgb(167, 154, 154);
+    padding-top: 50px;
+}
+h1{
+    text-align: center;
+}
+.swiperSlide{
+    height: 300px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(123, 123, 219);
+}
